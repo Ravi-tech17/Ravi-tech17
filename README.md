@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Currently+learning+ML%2FDL;Building+amazing+projects;Training+neural+networks...;r.verma.tech17%40gmail.com" alt="Typing SVG" />
 </div>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RbLBrBSM8Mct5b-7qL8mX4g0YSKD4t_a1lEnHgcZ&s" width="100%" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ravi-tech17&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-tech17" />
 </p>
