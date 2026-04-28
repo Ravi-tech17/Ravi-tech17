@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=social=python&logoColor=white" alt="Python" width="100"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge=python&logoColor=white" alt="Python" width="100"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
